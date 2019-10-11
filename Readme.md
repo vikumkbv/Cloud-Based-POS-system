@@ -21,4 +21,7 @@
 16. POS hardware support
 17. Rest Api to connect with external 3rd party e-commerce vendors
 18. Backup to remote storage
+
 # UI should attractive and responsive(Material UI)
+
+You should contribute to the availale project (angular/spring boot) folders respectively.
